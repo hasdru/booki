@@ -26,3 +26,52 @@ header, #titre_principal
     padding-top: 30px;
     margin-left: 100px;
 }
+.menu
+{
+    
+}
+nav ul 
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+nav li
+{
+    margin-right: 60px;
+
+}
+li 
+{
+    color:#0065FC;
+    padding-top: 30px;
+   
+}
+li:hover
+{
+  color:#0065FC;
+  padding-top: 30px;
+  border-top: 1px solid  #0065FC ;
+}
+nav a
+{
+    
+    font-size: medium;
+    padding-bottom: 3px;
+    text-decoration: none;
+} 
+ 
+ a:hover
+{   
+    text-decoration: none;
+    color: #0065FC ;
+    border-bottom: 1px solid #f2f2f2;
+    
+}
+
+a
+{
+    color:rgb(7, 6, 6);
+    text-decoration: none;
+}
