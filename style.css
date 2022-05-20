@@ -5,3 +5,24 @@ body
     margin: 0px;
     padding: 0px;
 }
+header
+{
+    display: flex;
+    justify-content: space-between;   
+}
+header, #titre_principal
+{
+    padding-bottom: 10px;
+    padding-right: 180px;
+}
+#logo
+{
+    width: 100px;
+}
+#logo img
+{
+    width: 109px;
+    height: 50px;
+    padding-top: 30px;
+    margin-left: 100px;
+}
