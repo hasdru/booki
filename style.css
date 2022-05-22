@@ -9,6 +9,8 @@ header
 {
     display: flex;
     justify-content: space-between;   
+    max-width: 1440px;
+    margin: auto;
 }
 header, #titre_principal
 {
@@ -74,4 +76,7 @@ a
 {
     color:rgb(7, 6, 6);
     text-decoration: none;
+}
+main {
+max-width: 1440px;
 }
