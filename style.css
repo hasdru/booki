@@ -77,6 +77,48 @@ a
     color:rgb(7, 6, 6);
     text-decoration: none;
 }
-main {
+main 
+{
 max-width: 1440px;
+margin: auto;
 }
+
+header.headerSearch
+{
+    display: block;
+}
+h1{
+    font-size: large;
+}
+
+p{
+    font-size: large;
+    
+}
+.fontmarker
+{
+    background-color: #f2f2f2;
+    padding: 15px 20px ;
+    border-radius: 15px 0 0 15px;
+}
+.inputrecherche
+{
+    border-top: #f2f2f2 1px solid;
+    border-right: none;
+    border-bottom: #f2f2f2 1px solid;
+    border-left: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}.rechercheButton
+{
+    background-color: #0065FC;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 0px 15px 15px 0px;
+    font-size: 20px;
+    padding: 0px 20px;
+    height: 50px;
+    width: 130px;
+}
+
